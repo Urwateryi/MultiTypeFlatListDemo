@@ -1,0 +1,3 @@
+rootProject.name = 'MultiTypeFlatListDemo'
+
+include ':app'
